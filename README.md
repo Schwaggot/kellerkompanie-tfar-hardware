@@ -15,7 +15,7 @@ All the parts I used are taken from the elegoo mega 2560 'The most complete star
 * 1x membrane switch module (aka keypad)
 * 2x button (small)
 * 2x 10kOhm resistor
-* >9000 jumper cables
+* over 9000 cables
 
 ## Software
 ### Arduino
